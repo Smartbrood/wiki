@@ -6,7 +6,7 @@
 
 # This is test.
 
-* [About Page](/about "About Page")
+* [About Page](about "About Page")
 
 
 ## Code and Syntax Highlighting
