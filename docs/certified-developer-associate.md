@@ -24,3 +24,12 @@ category: "main"
 * AWS API Gateway, AWS Lambda Python, AWS DynamoDB
 * Terraform/CloudFormation
 * AWS CodeCommit, CodeBuild/CodePipeline, AWS CodeDeploy
+
+# Services
+* AWS Elastic Beanstalk / OpsWorks (Chef/Puppet)
+* AWS CodeCommit/CodeBuild/CodeDeploy/CodePipeline
+* AWD CloudFormation
+* AWS Lambda/ECS/DynamoDB
+* AWS X-Ray/CloudWatch
+* Selverless stack: AWS Lambda/DynamoDB/S3/API Gateway/SNS/SQS/Step Function/Cognito/Kinesis/Athena/CloudFront
+* Serverless Application Model (SAM) -> CloudFormation extension optimized for serverless
